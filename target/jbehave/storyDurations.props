@@ -1,6 +1,6 @@
 #org.jbehave.core.embedder.StoryManager
-#Wed May 18 09:22:47 ICT 2022
+#Wed May 18 10:30:09 ICT 2022
 threads=1
-total=7000
-threadAverage=7000
-stories/search/Search.story=7000
+total=9000
+threadAverage=9000
+stories/search/Search.story=9000

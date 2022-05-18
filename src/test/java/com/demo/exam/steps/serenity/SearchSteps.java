@@ -6,7 +6,7 @@ import net.thucydides.core.annotations.Step;
 public class SearchSteps {
     SearchPage searchPage;
     @Step
-    public void is_the_login_page() {
+    public void is_the_google_page() {
     	searchPage.open();
     }
 

@@ -15,8 +15,8 @@ public class DefinationSearchSteps {
 	SearchSteps searchSteps;
 
 	@BeforeScenario
-	public void userLoginToApplication() {
-		searchSteps.is_the_login_page();
+	public void userAccessToGooglePage() {
+		searchSteps.is_the_google_page();
 	}
 	
 	@Given("the user input keyword '$keyword'")
