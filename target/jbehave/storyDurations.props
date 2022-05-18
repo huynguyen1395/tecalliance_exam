@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed May 18 09:22:47 ICT 2022
+threads=1
+total=7000
+threadAverage=7000
+stories/search/Search.story=7000

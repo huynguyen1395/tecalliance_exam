@@ -1,0 +1,5 @@
+com\demo\exam\common\Configs.class
+com\demo\exam\steps\DefinationSearchSteps.class
+com\demo\exam\tests\AcceptanceTestSuite.class
+com\demo\exam\steps\serenity\SearchSteps.class
+com\demo\exam\pages\SearchPage.class
